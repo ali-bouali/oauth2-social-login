@@ -2,6 +2,10 @@
 
 A sample project that shows how to implement OAuth2 login using Github as a resource server
 
+### Application diagram
+
+![Diagram](./diagram.png?raw=true "Title")
+
 ### Steps to create a gitHub application
 * Go to [GitHub developer portal](https://github.com/settings/developers)
 * Create a new application and provide the required information
